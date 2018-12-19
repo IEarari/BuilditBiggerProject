@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Click ON The Button To See  Joke :)</string>
+    <string name="button_text">GET IT !</string>
+    <string name="action_change">Change Version</string>
+    <string name="error_toast">ERROR : Can\'t Bring DATA </string>
+    <string name="banner_ad_unit_id">ca-app-pub-8676611109499873/7003879551</string>
+    <string name="ADMOB_ID">ca-app-pub-8676611109499873~5882369578</string>
+</resources>
